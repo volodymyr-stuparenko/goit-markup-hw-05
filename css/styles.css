@@ -636,7 +636,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 165px;
+    min-width: 165px;
     height: 40px;
     border-radius: 4px;
     cursor: pointer;
